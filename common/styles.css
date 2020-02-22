@@ -448,7 +448,7 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu{ display: block;
 
 .color-white{ color: #fff; }
 .color-green{ color: #36D98A; }
-.color-ash{ color: #aaa; }
+.color-ash{ color: #aaa; text-shadow: 3px 2px #F9B500;}
 .color-ccc{ color: #ccc; }
 .color-grey{ color: #ccc; }
 .color-primary{ color: #F9B500; }
@@ -459,6 +459,8 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu{ display: block;
 .color-facebook{ color: #365B99; }
 .color-twitter{ color: #58ADEE; }
 .color-google{ color: #E14A3D; }
+
+/* STYLE */
 
 /* BACKGROUND COLOR*/
 
